@@ -170,12 +170,12 @@ void FIFO(long int references[], int k, int pageTable[], int frame[]){
    cout << "Number of evictions: ";
    cout << numEvicts;
    cout << "\n";
-   int l; //counter
-   for (int l = 0; l < 10; l++){
+   int a; //counter
+   for (a = 0; a < 10; a++){
         cout << "Number of references to page ";
-        cout << l;
+        cout << a;
         cout << ": ";
-        cout << referenceTracker[l];
+        cout << referenceTracker[a];
         cout << "\n";
    }
 
