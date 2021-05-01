@@ -21,6 +21,12 @@ DESCRIPTION OF PROGRAM
 HOW TO RUN
 
     How to run on LINSERV: 
+    
+        Store the file on Linserv, and navigate in the terminal to the folder containing the file.
+        Run the command: g++ lab2.cpp (or g++ nameOfTheFile.cpp)
+        And finally run: ./a.out
+        
+        Then, you will be prompted by the program for input.
 
 
 WHAT THE PROGRAM DOES & DOES NOT ACCOUNT FOR (in terms of user input)
